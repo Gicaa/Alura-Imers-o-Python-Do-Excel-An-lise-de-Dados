@@ -8,3 +8,8 @@ Nesta aula, você vai:
 - Fazer análises exploratórias pelo Google Sheets com fórmulas
 - Usar o Chat GPT;
 - Gerar tabelas e cálculos de estatísticas como Máximo, Mínimo e Média.
+
+## Desafio
+- Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
+- Pegar via Chat GPT as faixas de idade;
+- Pedir para o GPT gerar a fórmula IF para as faixas de idade.
